@@ -1,0 +1,3 @@
+/home/sunwei/5（复件）/build/CMakeFiles/rebuild_cache.dir
+/home/sunwei/5（复件）/build/CMakeFiles/edit_cache.dir
+/home/sunwei/5（复件）/build/CMakeFiles/main.dir
